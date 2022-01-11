@@ -7,3 +7,5 @@ Complete SQL Bootcamp course on Udemy taught by Jose Portillo | https://www.udem
 HackerRank Python (basic) Certification | https://www.hackerrank.com/certificates/42c0e90201b6
 
 HackerRank SQL (basic) Certification | https://www.hackerrank.com/certificates/375eb5eb45e0
+
+HackerRank SQL (intermediate) Certification | https://www.hackerrank.com/certificates/e51738420f6c
